@@ -1,7 +1,7 @@
 <?php
-$db_host = "144.38.199.55";
-$db_name = "hobbits";
-$db_username = "gandalf";
-$db_password = "YouShall!pass5";
+$db_host = "hostname-here"; 
+$db_name = "name-of-database";
+$db_username = "username-here";
+$db_password = "password-here";
 
 ?>
