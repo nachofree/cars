@@ -1,5 +1,5 @@
 
-USE hobbits;
+USE krustykrab;
 
 CREATE TABLE IF NOT EXISTS `makes` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
